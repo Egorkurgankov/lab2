@@ -17,7 +17,7 @@ namespace Conditional
             op = (char)Console.Read();
 
             switch (op)
-            {
+            { 
                 case '+':
                     Console.WriteLine(first + second);
                     break;
