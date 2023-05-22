@@ -31,7 +31,7 @@ namespace Conditional
                     break;
 
                 case '/':     
-                    zad4(first,second)
+                    zad4(first,second) 
                     break;
 
                 default:
