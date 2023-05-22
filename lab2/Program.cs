@@ -23,7 +23,7 @@ namespace Conditional
                     break;
 
                 case '-':
-                    Console.WriteLine(first - second);
+                    zad2(first,second);
                     break;
 
                 case '*':
