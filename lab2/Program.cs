@@ -40,5 +40,10 @@ namespace Conditional
 
             }
         }
+        public static void zad2(double first,double second)
+        {
+            Console.WriteLine("Результат вычитания: ");
+            Console.WriteLine(first - second);
+        }
     }
 }
