@@ -19,7 +19,7 @@ namespace Conditional
             switch (op)
             {
                 case '+':
-                    Console.WriteLine(first + second);
+                    za1(first,second)
                     break;
 
                 case '-':
@@ -39,6 +39,11 @@ namespace Conditional
                     break;
 
             }
+        }
+        public static void za1(double first,double second)
+        {
+            Console.WriteLine("Результат сложения: ");
+            Console.WriteLine(first + second);
         }
     }
 }
